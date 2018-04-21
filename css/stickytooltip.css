@@ -1,0 +1,35 @@
+.stickytooltip{
+
+display:none;
+
+position:absolute;
+
+display:none;
+
+background:#59802b;
+
+z-index:3000;
+
+border-radius:5px;
+
+color:#fff; font-size:15px !important
+
+}
+
+
+
+
+
+.stickytooltip .stickystatus{ /*Style for footer bar within tooltip*/
+
+background:black;
+
+color:white;
+
+padding-top:5px;
+
+text-align:center;
+
+font:bold 11px Arial;
+
+}
